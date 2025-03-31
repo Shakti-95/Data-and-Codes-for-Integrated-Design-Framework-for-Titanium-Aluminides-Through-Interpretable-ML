@@ -10,12 +10,16 @@ The important results are shown below:
 
 **Distribution plots of inputs (elements and test temperature) and outputs (properties) in database**
 
+![Figure 1](https://github.com/user-attachments/assets/b5a1f1ac-6393-4b63-aea7-228749e7d2f0)
 
+![Figure 2](https://github.com/user-attachments/assets/16482d66-b6d3-4d80-af2f-c002ea13fcd9)
 
-**Correlation heatmap of composition vs properties and properties vs properties**
+**Correlation heatmap of input vs output and output vs output**
 
-![Figure-3](https://user-images.githubusercontent.com/12556692/211748055-1e3a735b-5ed2-4be2-a94f-64bde7bbf7a8.jpg)
+![Comp-prop heatmap](https://github.com/user-attachments/assets/cec6eb9b-d3ed-4bf0-9448-366865c5dedb)
+
+![Prop-prop heatmap](https://github.com/user-attachments/assets/98c2b3c8-adb2-4bfe-b6dd-0ea3694c66df)
 
 **Percentage of properties data available for the compositions in the database**
 
-![Figure-4](https://user-images.githubusercontent.com/12556692/211748109-b9be0f4c-ee00-4838-9a58-7a3ffb8034c9.jpg)
+![Properties percentage filled in database](https://github.com/user-attachments/assets/0586845a-a652-4357-94db-64400cd1727b)
