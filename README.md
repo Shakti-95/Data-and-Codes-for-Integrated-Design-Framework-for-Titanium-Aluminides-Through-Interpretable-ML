@@ -1,6 +1,6 @@
-# Data and Codes for Integrated Design Framework for Titanium Aluminides Through Machine Learning
+# Data and Codes for Integrated Design Framework for Titanium Aluminides Through Interpretable Machine Learning
 
-This repository contains the data and codes for the research work "_**Integrated Design Framework for Titanium Aluminides Through Machine Learning**_" authored by _Shakti P. Padhy, Karl P. Davidson, Li Ping Tan, Vijaykumar B. Varma, Vinay K. Sharma, Xiao Tan, Yuefan Wei, Xuesong Xu, Kedar Hippalgaonkar, Mark H. Jhon, & R. V. Ramanujan_ which is currently submitted to Applied Materials Today.
+This repository contains the data and codes for the research work "_**Integrated Design Framework for Titanium Aluminides Through Interpretable Machine Learning**_" authored by _Shakti P. Padhy, Karl P. Davidson, Li Ping Tan, Vijaykumar B. Varma, Vinay K. Sharma, Xiao Tan, Yuefan Wei, Xuesong Xu, Kedar Hippalgaonkar, Mark H. Jhon, & R. V. Ramanujan_ which is currently submitted to Applied Materials Today.
 
 This work addresses the challenge of designing better performance structural materials using incomplete and heterogeneous data in terms of property measurements and different processing conditions of samples, respectively. A machine learning-based imputation technique is developed, inspired from "_**Experimentally Validated Inverse design of Multi-Property Fe-Co-Ni alloys**_" (https://github.com/Shakti-95/Data-and-Codes-for-Experimentally-Validated-Inverse-design-of-Multi-Property-Fe-Co-Ni-alloys), for which the codes are available in the ``2-Imputation`` folder.
 
