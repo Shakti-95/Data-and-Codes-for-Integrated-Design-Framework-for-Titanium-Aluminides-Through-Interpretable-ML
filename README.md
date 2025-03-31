@@ -29,9 +29,9 @@ If you used the database or the codes for your research, consider citing our Git
                   Hippalgaonkar, Kedar and
                   Jhon, Mark and
                   Ramanujan, Raju V.},
-  title        = {Data-and-Codes-for-Integrated-Design-
-                   Framework-for-Titanium-Aluminides-Through-
-                   Interpretable-ML: Data and codes release\_v1.0.1
+  title        = {Data and Codes for Integrated Design Framework for
+                  Titanium Aluminides Through Interpretable ML: Data
+                  and codes release v1.0.1
                   },
   month        = mar,
   year         = 2025,
