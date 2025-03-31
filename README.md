@@ -17,27 +17,27 @@ If you used the database or the codes for your research, consider citing our Git
 
 ## GitHub repository citation
 ```
-@software{padhy_2025_15114412,
+@dataset{padhy_2025_15114898,
   author       = {Padhy, Shakti Prasad and
                   Davidson, Karl and
                   Tan, Li Ping and
                   Varma, Vijaykumar and
                   Sharma, Vinay kumar and
-                  Xiao, Tan and
+                  Tan, Xiao and
                   Wei, Yuefan and
-                  Xuesong, Xu and
+                  Xu, Xuesong and
                   Hippalgaonkar, Kedar and
                   Jhon, Mark and
                   Ramanujan, Raju V.},
-  title        = {Data-and-Codes-for-Integrated-Design-Framework-
-                   for-Titanium-Aluminides-Through-Interpretable-
-                   Machine-Learning: Data and codes release\_v1.0.0
+  title        = {Shakti-95/Data-and-Codes-for-Integrated-Design-
+                   Framework-for-Titanium-Aluminides-Through-
+                   Interpretable-ML: Data and codes release\_v1.0.1
                   },
   month        = mar,
   year         = 2025,
   publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.15114412},
-  url          = {https://doi.org/10.5281/zenodo.15114412},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.15114898},
+  url          = {https://doi.org/10.5281/zenodo.15114898},
 }
 ```
